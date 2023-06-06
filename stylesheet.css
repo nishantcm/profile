@@ -5,6 +5,10 @@ body{
     margin-top: 30%;
     margin-bottom: 30%;
 }
+div img{
+    height: 250px;
+    width: 260px;
+}
 div p{
     font-size: 30px;   
 }
